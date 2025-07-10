@@ -1,16 +1,23 @@
 # *Hello there, Myself Sanjeevi 👋*
 ------------------------
 ## *ML Engineer and Python Developer*
-=====================================
 
 ------------------------
 
 ## *Skills*
 
 ------------------------
+
 ## *Socials*
 
+<p align="left">
+<a href="https://www.linkedin.com/in/sanjeevi-kumar-m/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.kaggle.com/sanjeevi7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ponnarasua" height="32" width="32" /></a>
+<a href="https://leetcode.com/u/Sanjeevi_Kumar_7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ponnarasu_a" height="32" width="32" /></a>
+<a href="https://www.github.com/Sanjeevi-Kumar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+
 ------------------------
+
 ## *Badges*
 
 ### *My GitHub Stats*
